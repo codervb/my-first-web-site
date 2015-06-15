@@ -1,0 +1,9 @@
+""" this is for gitub to ignore certain files from the repository
+its tracking"""
+
+
+*.pyc
+__pycache__
+myvirenv
+db.sqlite3
+.DS_Store
